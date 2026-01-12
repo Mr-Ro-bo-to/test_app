@@ -1,2 +1,2 @@
 streamlit
-myproject-core @ git+https://github.com/YOUR_USERNAME/myproject-library.git
+myproject-core @ git+https://github.com/Mr-Ro-bo-to/test_library.git
