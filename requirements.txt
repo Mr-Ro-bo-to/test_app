@@ -1,2 +1,2 @@
 streamlit
-myproject-core @ git+https://github.com/Mr-Ro-bo-to/test_library.git
+myproject-library @ git+https://github.com/Mr-Ro-bo-to/test_library.git
