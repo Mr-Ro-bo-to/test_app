@@ -1,0 +1,2 @@
+streamlit
+myproject-core @ git+https://github.com/YOUR_USERNAME/myproject-library.git
