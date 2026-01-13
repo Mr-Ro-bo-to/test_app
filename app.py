@@ -1,9 +1,9 @@
 import streamlit as st
 from myproject import greet
 
-st.title("Hello World Streamlit App")
+st.title("Have a wonderful day 😘")
 
-name = st.text_input("Enter your name:", "World")
+name = st.text_input("Enter your name:", "Marie")
 
 if st.button("Greet"):
     message = greet(name)
